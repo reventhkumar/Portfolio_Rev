@@ -20,7 +20,7 @@ In this repository, you'll find a curated collection of testing projects, test p
 
 Here are a few of my projects i have worked on during my role as Game tester:
 
-1. [Project Name]: [Briefly describe the project, the testing challenges it presented, and how you addressed them.]
+1. [Mario + Rabbids sparks of hope]: [Briefly describe the project, the testing challenges it presented, and how you addressed them.]
 
 2. [Project Name]: [Provide insights into your role in ensuring the quality of this project, including any automated test suites you developed.]
 
