@@ -18,27 +18,28 @@ In this repository, you'll find a curated collection of testing projects, test p
 
 ## Projects
 
-Here are a few of my projects i have worked on during my role as Game tester:
+Check out my selenium Web Automation framework I have been developing [WIP]:
 
-1. [Mario + Rabbids sparks of hope]: [Briefly describe the project, the testing challenges it presented, and how you addressed them.]
 
-2. [Project Name]: [Provide insights into your role in ensuring the quality of this project, including any automated test suites you developed.]
+1. [Selenium Automation framework](https://github.com/reventhkumar/Rev_FrameWork_Selenium_Java.git)
 
-3. [Project Name]: [Highlight any unique testing methodologies or strategies you employed to achieve comprehensive coverage.]
+      Used the demo website [Swag Labs](https://www.saucedemo.com/v1/index.html) to create a Framework
+
+      Created a [test plan](https://docs.google.com/document/d/1rzhbeMTPIXfukwqzAo-2jDne0vztLej8rfrxgidxT7E/edit?usp=sharing) to automate the webpage and test all it features
+
+      Used ReportNG to provide a detailed report about the [testsuite](file:///E:/Automation/Eclipse_Workspace/org.rev.selenium/test-output/index.html#)
+         
+
 
 Feel free to explore these repositories to gain insights into my testing approach, test case design, and my dedication to delivering high-quality software.
 
-## Contributions
-
-I actively contribute to the testing community and have shared my insights through blog posts, testing frameworks, and contributions to open-source testing projects such as [mention specific projects or organizations you've contributed to].
 
 ## Contact
 
 I'm always eager to connect with fellow testers, developers, and anyone interested in the world of software testing. If you'd like to get in touch or discuss testing challenges and opportunities, you can reach me through:
 
-- [Your Email Address]
-- [LinkedIn Profile]
-- [Personal Blog/Website]
+- Reventhkumar1234@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/reventh-kumar-336249a3/)
 
 Thank you for visiting my GitHub portfolio. I look forward to collaborating, sharing knowledge, and advancing the field of software testing together. Let's ensure software quality, one test at a time!
 
