@@ -19,19 +19,25 @@ In this repository, you'll find a curated collection of testing projects, test p
 
 ## Projects
 
-Check out my selenium Web Automation framework I have been developing [WIP] foe testing web applications:
+Check out my selenium Web Automation framework I have been developing [WIP] for testing web applications:
 
 
 1. [Selenium Automation framework](https://github.com/reventhkumar/Rev_FrameWork_Selenium_Java.git)
 
-      a. Used the demo website [Swag Labs](https://www.saucedemo.com/v1/index.html) to create a Framework
+      a. Used the demo Ecommerce website [Swag Labs](https://www.saucedemo.com/v1/index.html)
 
-      b. Created a [test plan](https://docs.google.com/document/d/1rzhbeMTPIXfukwqzAo-2jDne0vztLej8rfrxgidxT7E/edit?usp=sharing) 
+      b. Created a [test cases](https://docs.google.com/document/d/1rzhbeMTPIXfukwqzAo-2jDne0vztLej8rfrxgidxT7E/edit?usp=sharing) to  manually  test the website
 
-      c. Used ReportNG to provide a detailed report about the [testsuite](file:///E:/Automation/Eclipse_Workspace/org.rev.selenium/test-output/index.html#)
+      c. Converted all the manual test cases to test script using selenium Java
+
+      c. Created a framework using page object model design
+
+      d. Implemented the following features in framework
+                > Creating test suite and running test cases with the help of testNG
+                > Enabling logs and generating logs files using log4j 2
+                > Taking Screenshot of failed test cases using TestNG listerners
+                > Create a automation to perform Adhoc / Monkey testing
          
-
-
 Feel free to explore these repositories to gain insights into my testing approach, test case design, and my dedication to delivering high-quality software.
 
 
