@@ -1,4 +1,4 @@
-# Reventhkumar's GitHub Portfolio: Software Testing and Quality Assurance
+# Reventhkumar's GitHub Portfolio: Manual Tester
 
 ## About Me
 
