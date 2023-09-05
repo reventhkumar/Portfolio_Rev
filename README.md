@@ -11,7 +11,7 @@ In this repository, you'll find a curated collection of testing projects, test p
 
 - **Manual Testing**: In my 2 years of experince Worked on various test activities such as test planning, Creating [Test cases](https://docs.google.com/spreadsheets/d/1MwTMjS76iXtZI42kVIxJa6ZRTHB901abBYeHHbZkClM/edit#gid=0) on mutiple game tiles on multiple platfrom's such as Mobile, Nitendo switch, PC, PS and Xbox
 
-- **Test Automation**: I have basic knowledge of Selenium with java and have built a Automation framework in Maven with use of TestNG Check out my [framework](https://github.com/reventhkumar/Rev_FrameWork_Selenium_Java)
+- **Test Automation**: I have basic knowledge of Selenium with java and have built a Automation framework in Maven with use of TestNG Check out my [framework](https://github.com/reventhkumar/SeleniumFramework.git)
 
 - **Test Strategy and Planning**: Worked with the stake holders to create a test plan establishing workefforts and timeline to release a high quality software within time constraints
 
@@ -22,7 +22,7 @@ In this repository, you'll find a curated collection of testing projects, test p
 Check out my selenium Web Automation framework I have been developing [WIP] for testing web applications:
 
 
-1. [Selenium Automation framework](https://github.com/reventhkumar/Rev_FrameWork_Selenium_Java.git)
+1. [Selenium Automation framework](https://github.com/reventhkumar/SeleniumFramework.git)
 
       a. Used the demo Ecommerce website [Swag Labs](https://www.saucedemo.com/v1/index.html)
 
