@@ -8,26 +8,26 @@ Welcome to my GitHub portfolio! I am a dedicated and experienced Software Tester
 
 In this repository, you'll find a curated collection of testing projects, test plans, automation scripts, and resources that highlight my testing skills and experiences. These repositories cover a wide range of testing areas and technologies, including:
 
-- **Manual Testing**: I have 2 years experience in game testing working on multiple platfrom's Mobile, Nitendo switch, PC, PS and Xbox 
+- **Manual Testing**: In my 2 years of experince Worked on various test activities such as test planning, Creating [Test cases](https://docs.google.com/spreadsheets/d/1MwTMjS76iXtZI42kVIxJa6ZRTHB901abBYeHHbZkClM/edit#gid=0) on mutiple game tiles on multiple platfrom's such as Mobile, Nitendo switch, PC, PS and Xbox
 
-- **Test Automation**: I have basic knowledge of Selenium with java and have built a Automation framework in Maven along with use of TestNG Check out my framework
+- **Test Automation**: I have basic knowledge of Selenium with java and have built a Automation framework in Maven with use of TestNG Check out my [framework](https://github.com/reventhkumar/Rev_FrameWork_Selenium_Java)
 
-- **Test Strategy and Planning**: During my 2 years experenince in I have contributed in creation of Test Staratergy and Test cases with used of tools like TestRail 
+- **Test Strategy and Planning**: Worked with the stake holders to create a test plan establishing workefforts and timeline to release a high quality software within time constraints
 
-- **Defect Tracking**: I am proficient in using defect tracking tools like Jira, Clickup, and some project management apps like monday.com
+- **Defect Tracking**: Proficient in using defect tracking tools like Jira, Clickup, and some project management apps like monday.com
 
 ## Projects
 
-Check out my selenium Web Automation framework I have been developing [WIP]:
+Check out my selenium Web Automation framework I have been developing [WIP] foe testing web applications:
 
 
 1. [Selenium Automation framework](https://github.com/reventhkumar/Rev_FrameWork_Selenium_Java.git)
 
-      Used the demo website [Swag Labs](https://www.saucedemo.com/v1/index.html) to create a Framework
+      a. Used the demo website [Swag Labs](https://www.saucedemo.com/v1/index.html) to create a Framework
 
-      Created a [test plan](https://docs.google.com/document/d/1rzhbeMTPIXfukwqzAo-2jDne0vztLej8rfrxgidxT7E/edit?usp=sharing) to automate the webpage and test all it features
+      b. Created a [test plan](https://docs.google.com/document/d/1rzhbeMTPIXfukwqzAo-2jDne0vztLej8rfrxgidxT7E/edit?usp=sharing) 
 
-      Used ReportNG to provide a detailed report about the [testsuite](file:///E:/Automation/Eclipse_Workspace/org.rev.selenium/test-output/index.html#)
+      c. Used ReportNG to provide a detailed report about the [testsuite](file:///E:/Automation/Eclipse_Workspace/org.rev.selenium/test-output/index.html#)
          
 
 
