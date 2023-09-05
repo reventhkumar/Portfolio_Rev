@@ -2,7 +2,8 @@
 
 ## About Me
 
-Welcome to my GitHub portfolio! I am a dedicated and experienced Software Tester with a passion for ensuring the quality and reliability of software applications. My journey in the world of testing has equipped me with a diverse skill set, from manual testing to test automation and everything in between.
+
+I am a dedicated and experienced Manual Tester with a passion for ensuring the quality and reliability of software applications. My journey in the world of testing has equipped me with a diverse skill set, from manual testing to test automation and everything in between.
 
 ## What You'll Find Here
 
