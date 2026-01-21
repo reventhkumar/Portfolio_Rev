@@ -1,4 +1,4 @@
-# Reventhkumar's GitHub Portfolio: Manual Tester
+# Reventhkumar's GitHub Portfolio: Senior QA
 
 ## About Me
 
@@ -9,7 +9,7 @@ I am a dedicated and experienced Manual Tester with a passion for ensuring the q
 
 In this repository, you'll find a curated collection of testing projects, test plans, automation scripts, and resources that highlight my testing skills and experiences. These repositories cover a wide range of testing areas and technologies, including:
 
-- **Manual Testing**: In my 2 years of experince Worked on various test activities such as test planning, Creating [Test cases](https://docs.google.com/spreadsheets/d/1MwTMjS76iXtZI42kVIxJa6ZRTHB901abBYeHHbZkClM/edit#gid=0) on mutiple game tiles on multiple platfrom's such as Mobile, Nitendo switch, PC, PS and Xbox
+- **Manual Testing**: Worked on various test activities such as test planning, Creating [Test cases](https://docs.google.com/spreadsheets/d/1MwTMjS76iXtZI42kVIxJa6ZRTHB901abBYeHHbZkClM/edit#gid=0) on mutiple game tiles on multiple platfrom's such as Mobile, Nitendo switch, PC, PS and Xbox
 
 - **Test Automation**: I have basic knowledge of Selenium with java and have built a Automation framework in Maven with use of TestNG Check out my [framework](https://github.com/reventhkumar/SeleniumFramework.git)
 
