@@ -10,11 +10,8 @@ Bangalore, Karnataka | [Resume](link-to-pdf) | [LinkedIn](your-linkedin)
 - 🔹 Tools: TestRail, Jira, Git, Eclipse
 
 ## Featured Projects
-[![SeleniumFramework](https://github.com/reventhkumar/SeleniumFramework/blob/main/screenshot.png)](https://github.com/reventhkumar/SeleniumFramework)
-[![Portfolio_Rev](https://github.com/reventhkumar/Portfolio_Rev/blob/main/screenshot.png)](https://github.com/reventhkumar/Portfolio_Rev)
-
-## 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=reventhkumar)
+[![Swag labs](https://github.com/reventhkumar/SeleniumFramework/blob/main/screenshot.png)](https://github.com/reventhkumar/SeleniumFramework)
+[![OpenQa](https://github.com/reventhkumar/Portfolio_Rev/blob/main/screenshot.png)](https://github.com/reventhkumar/Portfolio_Rev)
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
