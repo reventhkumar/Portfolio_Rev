@@ -2,7 +2,7 @@
 
 Bangalore, Karnataka | [Resume](link-to-pdf) | [LinkedIn](your-linkedin)
 
-**ServiceNow ATF & Selenium Automation Expert | Gaming QA Lead**
+**ServiceNow ATF| Selenium Framework | Manual Game QA**
 
 - 🔹 ServiceNow HAM: ATF for catalog forms, order guides, workflows
 - 🔹 Selenium: POM frameworks with Java, TestNG, Maven
