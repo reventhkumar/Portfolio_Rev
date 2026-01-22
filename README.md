@@ -11,7 +11,7 @@ Bangalore, Karnataka | [Resume](https://drive.google.com/file/d/1oHHDIipVXUOPJth
 
 ## Featured Selenium Automation Projects
 [Swag labs](https://github.com/reventhkumar/SeleniumFramework)  
-[OpenQa]((https://github.com/reventhkumar/DemoQaSelenium.git))
+[OpenQa](https://github.com/reventhkumar/DemoQaSelenium.git)
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
