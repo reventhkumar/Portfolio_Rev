@@ -1,17 +1,17 @@
 # Reventhkumar S | Senior QA Engineer 👨‍💻
 
-Bangalore, Karnataka | [Resume](link-to-pdf) | [LinkedIn](your-linkedin)
+Bangalore, Karnataka | [Resume](https://drive.google.com/file/d/1oHHDIipVXUOPJth3_dT75hoBi577HJb5/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/reventh-kumar-336249a3/)
 
 **ServiceNow ATF| Selenium Framework | Manual Game QA**
 
 - 🔹 ServiceNow HAM: ATF for catalog forms, order guides, workflows
 - 🔹 Selenium: POM frameworks with Java, TestNG, Maven
-- 🔹 Gaming: Led 4 testers on Cricket Gangsta (Creative Monkey Games)
+- 🔹 Gaming: Comprehensive functional game testing across PC, mobile (Android & iOS), Xbox, PS5, and Nintendo Switch
 - 🔹 Tools: TestRail, Jira, Git, Eclipse
 
-## Featured Projects
-[![Swag labs](https://github.com/reventhkumar/SeleniumFramework/blob/main/screenshot.png)](https://github.com/reventhkumar/SeleniumFramework)
-[![OpenQa](https://github.com/reventhkumar/Portfolio_Rev/blob/main/screenshot.png)](https://github.com/reventhkumar/Portfolio_Rev)
+## Featured Selenium Automation Projects
+[Swag labs](https://github.com/reventhkumar/SeleniumFramework)  
+[OpenQa]((https://github.com/reventhkumar/DemoQaSelenium.git))
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
